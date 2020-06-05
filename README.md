@@ -1,4 +1,4 @@
-![](/logo.png)
+![Logo](/logo.png)
 # A simple Design System for SwiftUI
 
 ### You can clone or download this repo and you will find a MagnetUI.sketchapp to see the design system. Other folder is the MagnetUI folder with the resource files. You can just drag and drop to your app folder. 
