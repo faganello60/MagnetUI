@@ -17,6 +17,7 @@
 		5172740024870E55002DACF8 /* Typography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517273FC24870E55002DACF8 /* Typography.swift */; };
 		5172740324870E7D002DACF8 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5172740224870E7D002DACF8 /* UIColor.swift */; };
 		5172740524870E9E002DACF8 /* MagnetColors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5172740424870E9E002DACF8 /* MagnetColors.xcassets */; };
+		51C12A2A24E1FD9200AF07C9 /* ButtonAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C12A2924E1FD9200AF07C9 /* ButtonAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		517273FC24870E55002DACF8 /* Typography.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Typography.swift; sourceTree = "<group>"; };
 		5172740224870E7D002DACF8 /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		5172740424870E9E002DACF8 /* MagnetColors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = MagnetColors.xcassets; sourceTree = "<group>"; };
+		51C12A2924E1FD9200AF07C9 /* ButtonAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			children = (
 				5172740224870E7D002DACF8 /* UIColor.swift */,
 				5172740424870E9E002DACF8 /* MagnetColors.xcassets */,
+				51C12A2924E1FD9200AF07C9 /* ButtonAnimation.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51C12A2A24E1FD9200AF07C9 /* ButtonAnimation.swift in Sources */,
 				5162458D2485BD5C0092BF1A /* AppDelegate.swift in Sources */,
 				5172740024870E55002DACF8 /* Typography.swift in Sources */,
 				5162458F2485BD5C0092BF1A /* SceneDelegate.swift in Sources */,
